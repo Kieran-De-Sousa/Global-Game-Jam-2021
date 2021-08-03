@@ -1,6 +1,6 @@
 # Lost Property
 
-Play now: https://kdsgenki.itch.io/lostproperty
+Play now: https://kierandesousa.itch.io
 
 Created in 3 days using Unity 2019.4.17f1
 
